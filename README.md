@@ -3,7 +3,7 @@
 
 ## Contact
 お問い合わせは、以下の窓口にご連絡ください。
-
+sekishin11091129@gmail.com
 
 ## Privacy policy
 [プライバシーポリシーはこちら](https://iwaoyuiko.github.io/Castle-Defense-Game/privacy-policy.html)
